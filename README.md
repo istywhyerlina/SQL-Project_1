@@ -31,12 +31,16 @@ To create the tables you can run the SQL file in ![here](SQL/Create_tables.sql)
 
 ## Generating Dummy Data
 
+Used python with Faker module to generating dummy data, syntax can be accessed ![here](Python/Dummy_data.ipynb)
 
 ## Inputting Data
- With this syntax in ![here](SQL/Copy/Copy_data.sql)
+ With this syntax in ![here](SQL/Copy_data.sql)
 
 ## Retrieving the database
 
+Exploring the data with queries! can be accessed ![here](SQL/transactional_query.sql) for Transactional query and ![here](SQL/transactional_query.sql) for analytical query!
+
 ## An Article on Medium
+Saya menulis artikel secara lengkap di medium juga teman-teman. bisa diakses disini ya! ![here](https://istywhyerlina.medium.com/proyek-sql-dengan-posgresql-cab55274f480)
 
 ## A Video on Youtube :)
