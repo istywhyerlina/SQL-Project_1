@@ -11,10 +11,29 @@ An entity–relationship model (or ER model) describes interrelated things of in
 ![](image/ERD.png)
 
 ## Creating Database and Tables
+To create the database, you can run the script below
+```sql
+CREATE DATABASE ecommerce
+    WITH
+    OWNER = postgres
+    ENCODING = 'UTF8'
+    LOCALE_PROVIDER = 'libc'
+    CONNECTION LIMIT = -1
+    IS_TEMPLATE = False;
+
+```
+ ![](image/Table_desc_1.png)
+
+or you can run the script in ![](SQL/"Create_database.sql")
+
+To create the tables you can run the SQL file in ![](SQL/"Create_tables.sql")
+
 
 ## Generating Dummy Data
 
+
 ## Inputting Data
+ With this syntax in ![](SQL/"Copy/Copy_data.sql")
 
 ## Retrieving the database
 
