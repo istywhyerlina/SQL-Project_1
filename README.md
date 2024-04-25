@@ -24,16 +24,16 @@ CREATE DATABASE ecommerce
 ```
  ![](image/Table_desc_1.png)
 
-or you can run the script in ![](SQL/"Create_database.sql")
+or you can run the script in ![here](SQL/Create_database.sql)
 
-To create the tables you can run the SQL file in ![](SQL/"Create_tables.sql")
+To create the tables you can run the SQL file in ![here](SQL/Create_tables.sql)
 
 
 ## Generating Dummy Data
 
 
 ## Inputting Data
- With this syntax in ![](SQL/"Copy/Copy_data.sql")
+ With this syntax in ![here](SQL/Copy/Copy_data.sql)
 
 ## Retrieving the database
 
