@@ -41,6 +41,5 @@ Used python with Faker module to generating dummy data, syntax can be accessed !
 Exploring the data with queries! can be accessed ![here](SQL/transactional_query.sql) for Transactional query and ![here](SQL/transactional_query.sql) for analytical query!
 
 ## An Article on Medium
-Saya menulis artikel secara lengkap di medium juga teman-teman. bisa diakses disini ya! ![here](https://istywhyerlina.medium.com/proyek-sql-dengan-posgresql-cab55274f480)
-
+Saya menulis artikel secara lengkap di medium juga teman-teman. bisa diakses disini ya! <https://istywhyerlina.medium.com/proyek-sql-dengan-posgresql-cab55274f480>
 ## A Video on Youtube :)
