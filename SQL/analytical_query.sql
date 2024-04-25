@@ -50,6 +50,5 @@ avg("B"."bid_price") FILTER (WHERE monthdiff=5) as m_min_6
 from public.ads as "A" 
 right join bid_month_diff as "B" on "A"."ad_id"= "B"."ad_id"
 left join public.cars as "C" on "A"."product_id"="C"."product_id"
-left join  public.users as "U" on "A"."seller_id"="U"."user_id" 
-left join public.cities as "Ci" on "Ci"."city_id" = "U"."city_id" 
+
 group by "C"."model"
